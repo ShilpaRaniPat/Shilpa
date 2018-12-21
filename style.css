@@ -6,3 +6,12 @@ h1
 {
     font-family:arial
 }
+
+div
+{ 
+    width:612px;
+    
+    background:green;
+    margin:auto;
+}
+

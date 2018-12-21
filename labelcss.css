@@ -1,0 +1,17 @@
+form li{
+    list-style:none;
+    margin-bottom:30x;
+    font-family:sans-serif;
+    padding-left:20px;
+
+}
+   label{
+       display:block;
+       font-family:Arial, Helvetica, sans-serif;
+   } 
+   textarea{
+       width:200px;
+       height:300px;
+   }
+
+

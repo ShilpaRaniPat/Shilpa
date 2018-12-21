@@ -1,0 +1,29 @@
+.say
+{
+    min-width:500px;
+width:80%;
+    background:white;
+    margin:auto;
+}
+.do,aside{
+    height:500px;
+}
+.do
+{
+    
+    background:green;
+    float:left;
+    width:70%;
+    
+}
+
+aside
+{
+    background:yellow;
+    float:left;
+    width:30%;
+    padding-left:0;
+}
+aside ul{
+    padding-left:20px;
+}
